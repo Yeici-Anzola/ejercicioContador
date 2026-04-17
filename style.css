@@ -13,7 +13,7 @@ body{
 }
 
 .container{
-    background-color: rgb(253, 168, 249);
+    background-color: rgb(177, 67, 171);
     color: black;
     width: 400px;
     min-height: 300px;
@@ -31,7 +31,7 @@ body{
 h1{
     margin-bottom: 10px;
     text-transform: uppercase;
-    color: rgb(172, 27, 240);
+    color: rgb(240, 27, 126);
 }
 .contar {
     font-size: 70px;
